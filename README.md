@@ -1,2 +1,2 @@
-# DS_Assignments
+# DS-Assignments
 #### Data Structure & Algorithm -- Fall 2022
